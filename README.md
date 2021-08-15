@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 All current sketches and circuit diagrams are based on the Arduino UNO R3 (or its comparable substitutes), the ESP8266MOD Node MCU, the ESP-01S, and their compatible components/modules.
 
 Softwares/apps in use for all programs/sketches:
-- Arudino IDE
+- Arduino IDE
 - VS Code
 - Blynk App
 - Termux 
