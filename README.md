@@ -12,17 +12,17 @@ You can click the Preview link to take a look at your changes.
 All current sketches and circuit diagrams are based on the Arduino UNO R3 (or its comparable substitutes), the ESP8266MOD Node MCU, the ESP-01S, and their compatible components/modules.
 
 Softwares/apps in use for all programs/sketches:
-Arudino IDE
-VS Code
-Blynk App
-Termux 
+- Arudino IDE
+- VS Code
+- Blynk App
+- Termux 
 
 Supported OS's are:
-Windows
-Linux
-ChromeOS
-Android
-iOS
+- Windows
+- Linux
+- ChromeOS
+- Android
+- iOS
 
 I look forward to seeing what we can accomplish, together. 
 
