@@ -1,4 +1,4 @@
-//Stepper motor base code using 2 bipolar motors and IR distance sensor
+//Stepper motor base code using 2 bipolar motors and IR distance sensor for light:canopy distance control
 #include <DistanceGP2Y0A21YK.h>
 
 DistanceGP2Y0A21YK Dist;
@@ -44,7 +44,7 @@ void loop(){
 }
 
 void rotateM2(int steps, float speed){ 
-  //rotate a specific number of microsteps (8 microsteps per step) - (negitive for reverse movement)
+  //rotate a specific number of microsteps (8 microsteps per step) - (negative for reverse)
   //speed is any number from .01 -> 1 with 1 being fastest - Slower is stronger
   int dir = (steps > 0)? HIGH:LOW;
   steps = abs(steps);
@@ -63,7 +63,7 @@ void rotateM2(int steps, float speed){
 }
 
 void rotateM34(int steps, float speed){ 
-  //rotate a specific number of microsteps (8 microsteps per step) - (negitive for reverse movement)
+  //rotate a specific number of microsteps (8 microsteps per step) - (negative for reverse movement)
   //speed is any number from .01 -> 1 with 1 being fastest - Slower is stronger
   int dir = (steps > 0)? HIGH:LOW;
   steps = abs(steps);
