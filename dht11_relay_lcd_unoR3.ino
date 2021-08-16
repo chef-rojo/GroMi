@@ -1,4 +1,5 @@
 //DHT-11 sensor board to UNO R3 with LCD Display and relay
+//added conversion from Celcius to Farenheit to read-out, may keep Celcius for back-end equations
 //if statement controls dehumidifier, will add additional relays/humidifier/exhaust-fan/ac controls later
 
 int motor = 5;
