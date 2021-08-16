@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @chef-rojo (chef.rojo on IG, drewseph on GrowDiaries)
-- Consider this a guide for those starting from scratch, and an Open-Source forum for those who wish to contribute. All I ask in advance is peace, respect, and keep it community. And have some patience, man. I don't do this shit all day.
-- 🌱 We're automating home-grown cannabis using Arduino and some light robotics/software stuff to take all that time spent watering, adjusting the many moving parts involved, (the tedious crap), and saving it for what matters: showing the plants some love and enjoying that sweet cheeba.
-- 💞️ Let's collaborate on any and all ideas, fixes, revisions you may have... "Where we go one, we go all."
-- 📫 For these purposes, let's do contact by email or IG exclusively. We'll expand the community to other platforms as it grows, and there'll be matching YouTube videos to what we do here in the coming months.
+- Consider this a work-in-progress guide for those starting from scratch, and an Open-Source forum for those who wish to contribute. All I ask in advance is peace, respect, and keep it community.
+- 🌱 The end-goal is full end-to-end app-based home-grown cannabis using Arduino and some light robotics/software stuff to take all that time spent watering, adjusting the many moving parts involved, (the tedious crap), and saving it for what matters: showing the plants some love and enjoying that sweet cheeba.
+- � Let's collaborate on any and all ideas, fixes, revisions you may have... "Where we go one, we go all."
+- 📫 For these purposes, let's do contact by email or IG exclusively. We'll expand the community to other platforms as it grows, and there'll be matching YouTube videos to finished projects in the coming months.
 
 <!---
 drewseph-grows/drewseph-grows is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
