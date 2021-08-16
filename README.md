@@ -24,7 +24,8 @@ Supported OS's are:
 - Android
 - iOS
 
-This is just the start... Forever a work in progress, and I look forward to seeing what we can accomplish, together. 
+I look forward to seeing what we can accomplish, together. 
+
 As always, happy growing. 
 
 -Drew
