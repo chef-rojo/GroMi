@@ -1,7 +1,5 @@
-#include <dht11.h>
-
-
 //DHT-11 sensor board to UNO R3 with LCD Display and relay
+//if statement controls dehumidifier, will add additional relays/humidifier/exhaust-fan/ac controls later
 
 int motor = 5;
 #include <Wire.h>
@@ -12,6 +10,7 @@ int motor = 5;
 dht11 DHT11;            
  
 LiquidCrystal_I2C lcd(0x27, 16, 2); 
+
 void setup() {
   Serial.begin(9600);
   
